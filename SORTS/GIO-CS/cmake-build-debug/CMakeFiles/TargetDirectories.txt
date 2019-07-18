@@ -1,0 +1,3 @@
+C:/Users/felix/VACACIONES/SORTS/GIO-CS/cmake-build-debug/CMakeFiles/GIO_CS.dir
+C:/Users/felix/VACACIONES/SORTS/GIO-CS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/felix/VACACIONES/SORTS/GIO-CS/cmake-build-debug/CMakeFiles/rebuild_cache.dir

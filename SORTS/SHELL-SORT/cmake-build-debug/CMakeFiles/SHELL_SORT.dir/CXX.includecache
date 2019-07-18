@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/felix/VACACIONES/SORTS/SHELL-SORT/main.cpp
+iostream
+-
+vector
+-
+shellSort.h
+C:/Users/felix/VACACIONES/SORTS/SHELL-SORT/shellSort.h
+
+C:/Users/felix/VACACIONES/SORTS/SHELL-SORT/shellSort.h
+iostream
+-
+vector
+-
+

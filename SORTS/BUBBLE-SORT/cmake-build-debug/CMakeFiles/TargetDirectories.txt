@@ -1,0 +1,3 @@
+C:/Users/felix/VACACIONES/SORTS/BUBBLE-SORT/cmake-build-debug/CMakeFiles/BUBBLE_SORT.dir
+C:/Users/felix/VACACIONES/SORTS/BUBBLE-SORT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/felix/VACACIONES/SORTS/BUBBLE-SORT/cmake-build-debug/CMakeFiles/rebuild_cache.dir

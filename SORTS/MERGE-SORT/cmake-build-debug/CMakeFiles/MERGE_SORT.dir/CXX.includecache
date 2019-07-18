@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/felix/VACACIONES/SORTS/MERGE-SORT/Funciones.h
+vector
+-
+algorithm
+-
+
+C:/Users/felix/VACACIONES/SORTS/MERGE-SORT/Funciones2.h
+vector
+-
+algorithm
+-
+
+C:/Users/felix/VACACIONES/SORTS/MERGE-SORT/Funciones3.h
+vector
+-
+algorithm
+-
+
+C:/Users/felix/VACACIONES/SORTS/MERGE-SORT/main.cpp
+iostream
+-
+Funciones.h
+C:/Users/felix/VACACIONES/SORTS/MERGE-SORT/Funciones.h
+Funciones2.h
+C:/Users/felix/VACACIONES/SORTS/MERGE-SORT/Funciones2.h
+Funciones3.h
+C:/Users/felix/VACACIONES/SORTS/MERGE-SORT/Funciones3.h
+
